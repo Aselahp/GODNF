@@ -197,7 +197,7 @@ class GODNFLayer(nn.Module):
 
 class GODNF(nn.Module):
     def __init__(self, in_features, hidden_features, out_features, dropout,
-                 num_nodes, alpha=0.9, init_mu=0.8, learn_mu=True, t_max=10, use_static_weights=False):
+                 num_nodes, alpha=0.3, init_mu=0.8, learn_mu=True, t_max=10, use_static_weights=False):
         super(GODNF, self).__init__()
         
         # GNN layer
