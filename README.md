@@ -1,5 +1,5 @@
 # GODNF
-A Generalized Opinion Dynamics Framework for Graph Neural Diffusion
+Graph Neural Diffusion via Generalized Opinion Dynamics
 
 # Python Version
 
