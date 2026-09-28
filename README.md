@@ -17,10 +17,10 @@ torch_sparse: 0.6.18
 
 1. For node classification, you may go into node_classification folder and execute,
 ```
-python3 random_splits.py 
+python3 run.py 
 ```
 
 
 2. For influence estimation, you may go into influence_estimation folder and execute,
 ```
-python3 Run_all.py 
+python3 run_all.py 
